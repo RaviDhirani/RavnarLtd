@@ -290,12 +290,12 @@ h6 {
   font-size: 14px;
   line-height: 40px;
   font-weight: 600;
-  color: #f7ac54;
+  color: #8e8d8b;
   text-transform: uppercase;
   margin-bottom: 0px;
 }
 .color {
-  color: #f7ac54;
+  color: #8e8d8b;
 }
 .section-header {
   margin-bottom: 70px;
@@ -445,7 +445,7 @@ section.section {
 .btn .icon {
   position: relative;
   top: 3px;
-  color: #f7ac54;
+  color: #8e8d8b;
 }
 .btn.left-icon .icon {
   margin-right: 4px;
